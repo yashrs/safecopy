@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CopySafeExtension:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopySafeExtension_jar</output-path>
+    <root id="archive" name="CopySafeExtension.jar">
+      <element id="module-output" name="CopySafeExtension" />
+    </root>
+  </artifact>
+</component>

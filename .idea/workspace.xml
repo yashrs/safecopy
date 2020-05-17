@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CopySafeExtension:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f8f3198-3e5e-4fa3-bf06-a07ba38a389b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZZawj3hEYVgJtdute9DZW4ckyD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f8f3198-3e5e-4fa3-bf06-a07ba38a389b" name="Default Changelist" comment="" />
+      <created>1585049311032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585049311032</updated>
+      <workItem from="1585049313550" duration="3820000" />
+      <workItem from="1585294628092" duration="15752000" />
+      <workItem from="1585806783749" duration="614000" />
+      <workItem from="1589442394818" duration="518000" />
+      <workItem from="1589708200140" duration="4051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1589708704290">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="709" y="288" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1589708704290" />
+    <state x="709" y="288" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585298802076" />
+    <state x="633" y="362" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585213462616">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="633" y="362" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1585213462616" />
+    <state x="781" y="466" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1585304365999">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="781" y="466" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585304365999" />
+    <state x="634" y="344" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1585296153706">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="634" y="344" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585296153706" />
+    <state x="384" y="153" key="SettingsEditor" timestamp="1589709060723">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="384" y="153" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1589709060723" />
+    <state x="384" y="153" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585301922601" />
+    <state x="573" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1589708071620">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="573" y="403" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589708071620" />
+    <state x="573" y="403" key="com.intellij.ide.util.TipDialog/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1589466017821" />
+    <state x="596" y="231" width="592" height="201" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585301632481">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="596" y="231" width="592" height="201" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585301632481" />
+    <state x="273" y="194" key="new project wizard" timestamp="1585806801480">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="273" y="194" key="new project wizard/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585806801480" />
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1585331893003">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585331893003" />
+  </component>
+</project>
